@@ -5,3 +5,6 @@ Stack:
 - CSS3
 - PHP
 - jQueru
+
+Запуск
+gulp default

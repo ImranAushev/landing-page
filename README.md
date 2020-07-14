@@ -7,4 +7,4 @@ Stack:
 - jQueru
 
 Запуск
-gulp default
+- gulp default

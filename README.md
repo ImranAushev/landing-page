@@ -6,5 +6,5 @@ Stack:
 - PHP
 - jQueru
 
-Запуск
+Запуск:
 - gulp default

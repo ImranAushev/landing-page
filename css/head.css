@@ -1,0 +1,261 @@
+body {
+  font-family: "RalewayRegular";
+  font-size: 1em;
+  min-width: 320px;
+  position: relative;
+  line-height: 1.375em;
+  overflow-x: hidden;
+  color: #333; }
+
+.top-line {
+  min-height: 620px;
+  position: relative; }
+  .top-line .logo {
+    margin-left: 10px; }
+    .top-line .logo img {
+      width: 130px; }
+  .top-line .name_compani {
+    line-height: 130px; }
+    .top-line .name_compani span {
+      font-family: "RalewaySemiBold";
+      font-size: 1.625em; }
+  .top-line .icons {
+    display: inline-block; }
+    .top-line .icons a {
+      cursor: pointer;
+      text-decoration: none; }
+      .top-line .icons a i {
+        display: block;
+        font-size: 28px;
+        margin-top: 24px; }
+        .top-line .icons a i span {
+          color: black;
+          font-size: 0.75em; }
+    .top-line .icons .green {
+      color: #326609; }
+    .top-line .icons .red {
+      color: #d91a37; }
+  .top-line .adress {
+    display: inline-block;
+    line-height: 22px;
+    margin-top: 24px; }
+    .top-line .adress span {
+      display: block; }
+      .top-line .adress span i {
+        color: #ff0005;
+        margin-left: 50px;
+        padding: 8px; }
+        .top-line .adress span i strong {
+          color: blue;
+          font-weight: normal; }
+    .top-line .adress .street {
+      font-size: 0.9375em;
+      font-family: "RalewaySemiBold"; }
+  .top-line hr {
+    height: 3px;
+    background: #326609; }
+  .top-line .menu-top {
+    margin-bottom: 5px; }
+    .top-line .menu-top nav ul {
+      list-style-type: none;
+      text-align: right;
+      margin: 0;
+      padding: 0;
+      cursor: pointer; }
+      .top-line .menu-top nav ul li {
+        display: inline-block;
+        padding-right: 74px; }
+        .top-line .menu-top nav ul li a {
+          font-family: "RalewaySemiBold";
+          text-decoration: none;
+          color: #000000;
+          font-size: 1.0625em;
+          text-transform: uppercase; }
+  .top-line .container .head_content {
+    position: relative; }
+    .top-line .container .head_content img {
+      width: 100%; }
+    .top-line .container .head_content .text_center {
+      position: absolute;
+      color: #326609;
+      font-family: "PFCentroSlabProBold";
+      text-transform: uppercase;
+      font-size: 2.5em;
+      bottom: 0;
+      line-height: 85px;
+      margin: 0 0 130px 36px; }
+      .top-line .container .head_content .text_center span {
+        text-transform: none; }
+      .top-line .container .head_content .text_center .centr_city {
+        color: #395791; }
+      .top-line .container .head_content .text_center .piter {
+        display: block;
+        color: #395791; }
+    .top-line .container .head_content .forms {
+      width: 300px;
+      position: absolute;
+      bottom: 0;
+      margin: 0px 0px 60px 0px;
+      text-align: center;
+      padding: 25px 25px;
+      background-color: #fff; }
+      .top-line .container .head_content .forms h4 {
+        color: #000;
+        text-transform: none;
+        margin-top: 0;
+        margin-bottom: 20px; }
+      .top-line .container .head_content .forms p {
+        padding-right: 19px;
+        margin-bottom: 0px;
+        color: #000; }
+      .top-line .container .head_content .forms lable {
+        display: block; }
+        .top-line .container .head_content .forms lable span {
+          display: block;
+          color: #97a4b2;
+          letter-spacing: 2px;
+          margin-top: 18px; }
+        .top-line .container .head_content .forms lable input {
+          background-color: #fff;
+          color: #000;
+          padding: 5px;
+          width: 100%; }
+      .top-line .container .head_content .forms .button_wrap {
+        display: block;
+        margin-top: 23px;
+        background-color: #395791;
+        color: #111;
+        padding: 10px 30px;
+        font-weight: bold;
+        text-align: center; }
+        .top-line .container .head_content .forms .button_wrap .buttons {
+          font-size: 1em;
+          background-color: #395791;
+          border: none;
+          color: #fff; }
+
+#the_questions .row {
+  background-color: #e3e3e3;
+  margin: 0; }
+  #the_questions .row .block_question {
+    min-height: 620px; }
+    #the_questions .row .block_question h1 {
+      text-align: center;
+      font-size: 2.25em;
+      padding: 10px 10px;
+      margin-bottom: 30px;
+      font-weight: normal;
+      line-height: 30px; }
+    #the_questions .row .block_question .mc_wrap {
+      text-align: left;
+      border: 1px solid #c2c0c0;
+      padding: 12px 20px;
+      background-color: #fff;
+      font-family: "RalewayRegular"; }
+      #the_questions .row .block_question .mc_wrap .mc_item_wrap {
+        list-style-type: none; }
+        #the_questions .row .block_question .mc_wrap .mc_item_wrap .sub-menu {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          display: none; }
+        #the_questions .row .block_question .mc_wrap .mc_item_wrap .sub-menu-two {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          display: none; }
+        #the_questions .row .block_question .mc_wrap .mc_item_wrap .sub-menu-three {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          display: none; }
+        #the_questions .row .block_question .mc_wrap .mc_item_wrap .sub-menu-four {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          display: none; }
+        #the_questions .row .block_question .mc_wrap .mc_item_wrap .sub-menu-five {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          display: none; }
+        #the_questions .row .block_question .mc_wrap .mc_item_wrap .sub-menu-six {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          display: none; }
+        #the_questions .row .block_question .mc_wrap .mc_item_wrap .sub-menu-seven {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          display: none; }
+        #the_questions .row .block_question .mc_wrap .mc_item_wrap .sub-menu-eigth {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          display: none; }
+        #the_questions .row .block_question .mc_wrap .mc_item_wrap .sub-menu-nine {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          display: none; }
+        #the_questions .row .block_question .mc_wrap .mc_item_wrap .sub-menu-ten {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          display: none; }
+        #the_questions .row .block_question .mc_wrap .mc_item_wrap .open {
+          display: block;
+          margin: 0;
+          padding: 0; }
+        #the_questions .row .block_question .mc_wrap .mc_item_wrap .mc_item {
+          display: flex;
+          width: 100%; }
+          #the_questions .row .block_question .mc_wrap .mc_item_wrap .mc_item .mc_toggle {
+            cursor: pointer;
+            font-family: normal;
+            text-align: right;
+            width: 20%; }
+            #the_questions .row .block_question .mc_wrap .mc_item_wrap .mc_item .mc_toggle i {
+              font-size: 0.875em;
+              line-height: 42px; }
+          #the_questions .row .block_question .mc_wrap .mc_item_wrap .mc_item .wr {
+            text-decoration: none;
+            color: #000;
+            width: 80%; }
+            #the_questions .row .block_question .mc_wrap .mc_item_wrap .mc_item .wr span {
+              font-size: 1.25em; }
+
+#about_us .row {
+  border: 2px solid #e3e3e3;
+  border-top: none;
+  border-bottom: none;
+  margin: 0; }
+  #about_us .row .info_about_specialist {
+    margin: 100px 20px 70px 40px; }
+    #about_us .row .info_about_specialist h2 {
+      line-height: 30px; }
+    #about_us .row .info_about_specialist p {
+      font-size: 1.25em; }
+  #about_us .row .foto_specialista {
+    margin-top: 70px;
+    margin-bottom: 70px; }
+
+#contacts_adress {
+  min-height: 300px; }
+  #contacts_adress .row {
+    background-color: #e3e3e3;
+    margin: 0; }
+    #contacts_adress .row .contacts {
+      margin: 40px; }
+      #contacts_adress .row .contacts span {
+        display: block;
+        line-height: 30px;
+        font-size: 1.25em; }
+      #contacts_adress .row .contacts .tel {
+        color: #228df2; }
+      #contacts_adress .row .contacts .place {
+        padding: 10px 0; }
+    #contacts_adress .row .tab_item {
+      margin-top: 30px;
+      margin-bottom: 30px; }

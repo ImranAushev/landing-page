@@ -1,0 +1,171 @@
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .top-line .adress .street {
+    text-align: center;
+    margin-left: 35px; }
+  .top-line .menu-top nav ul {
+    text-align: center; }
+  .top-line .container .head_content .forms {
+    margin: 0px 0px 10px -40px; } }
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .top-line .container .head_content .text_center {
+    line-height: 50px;
+    bottom: -35px; }
+  .top-line .container .head_content .forms {
+    position: relative;
+    width: 100%;
+    text-align: left;
+    padding-top: -30px;
+    border: 1px solid #8f8e8b;
+    margin: 20px 0 20px 0; }
+    .top-line .container .head_content .forms h4 {
+      text-align: center; }
+    .top-line .container .head_content .forms lable input {
+      padding: 10px 5px; }
+  .top-line .hide {
+    display: none; }
+  #about_us .row .info_about_specialist {
+    margin: 50px 0 0 0; }
+    #about_us .row .info_about_specialist h2 {
+      font-size: 1.25em; }
+    #about_us .row .info_about_specialist p {
+      font-size: 1em; } }
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  .top-line .head_content .container img {
+    height: 450px; }
+  .top-line .head_content .container .text_center {
+    display: none; }
+  .top-line .head_content .container .forms {
+    width: 93%;
+    text-align: left;
+    margin-bottom: 30px;
+    opacity: 0.8; }
+    .top-line .head_content .container .forms h4 {
+      text-align: center; }
+    .top-line .head_content .container .forms lable input {
+      padding: 5px 5px;
+      border: 1px solid #8f8e8b; }
+  .top-line .menu-top nav ul {
+    text-align: center; }
+    .top-line .menu-top nav ul li {
+      padding: 10px 30px 10px 10px; }
+  .top-line .hide_text {
+    display: none; }
+  .top-line .hide {
+    text-align: center; }
+    .top-line .hide .adress {
+      margin-top: 15px;
+      margin-bottom: 10px; }
+      .top-line .hide .adress span i {
+        margin-left: 0; }
+  .top-line .logo {
+    margin-top: 20px; }
+    .top-line .logo img {
+      width: 110px; }
+  #about_us .row .info_about_specialist {
+    margin: 20px 0 0 0; }
+    #about_us .row .info_about_specialist h2 {
+      font-size: 1em; }
+    #about_us .row .info_about_specialist p {
+      font-size: 0.875em; } }
+
+@media only screen and (min-width: 320px) and (max-width: 576px) {
+  .top-line .head_content .container img {
+    height: 450px; }
+  .top-line .head_content .container .text_center {
+    display: none; }
+  .top-line .head_content .container .forms {
+    width: 93%;
+    text-align: left;
+    margin-bottom: 30px;
+    opacity: 0.8; }
+    .top-line .head_content .container .forms h4 {
+      text-align: center; }
+    .top-line .head_content .container .forms lable input {
+      padding: 5px 5px;
+      border: 1px solid #8f8e8b; }
+  .top-line .menu-top nav ul {
+    text-align: center;
+    padding: 0;
+    margin: 0; }
+    .top-line .menu-top nav ul li {
+      display: block;
+      padding: 5px 5px 5px 15px; }
+  .top-line .hide_text {
+    display: none; }
+  .top-line .hide {
+    text-align: center; }
+    .top-line .hide .adress {
+      text-align: center;
+      margin-top: 14px;
+      margin-bottom: 10px; }
+      .top-line .hide .adress span {
+        padding-bottom: 4px; }
+        .top-line .hide .adress span i {
+          margin-left: 0; }
+  .top-line .number {
+    margin-top: 12px;
+    text-align: center; }
+  .top-line .logo {
+    margin-top: 20px;
+    margin-left: 0;
+    text-align: center; }
+    .top-line .logo img {
+      width: 110px; }
+  #about_us .row .info_about_specialist {
+    margin: 20px 0 0 0; }
+    #about_us .row .info_about_specialist h2 {
+      font-size: 1em;
+      text-align: center; }
+    #about_us .row .info_about_specialist p {
+      font-size: 0.875em; }
+  #about_us .row .foto_specialista {
+    text-align: center;
+    margin: 20px; } }
+
+@media only screen and (max-width: 360px) {
+  .top-line .head_content .container img {
+    height: 450px; }
+  .top-line .head_content .container .text_cen {
+    display: none; }
+  .top-line .head_content .container .forms {
+    width: 90%;
+    margin-bottom: 30px; }
+  .top-line .hide_text {
+    display: none; }
+  .top-line .hide {
+    text-align: center; }
+    .top-line .hide .adress span i {
+      margin-left: 0; }
+  .top-line .menu-top nav ul {
+    text-align: center; }
+    .top-line .menu-top nav ul li {
+      padding: 5px 0 0 0;
+      display: block; }
+  .top-line .number {
+    margin-top: -5px; }
+    .top-line .number .icons span {
+      font-size: 0.625em; }
+  .top-line .logo {
+    margin-top: 20px; }
+    .top-line .logo img {
+      width: 80px; }
+  #about_us .row .info_about_specialist {
+    margin: 20px 0 0 0; }
+    #about_us .row .info_about_specialist h2 {
+      font-size: 1em;
+      text-align: center; }
+    #about_us .row .info_about_specialist p {
+      font-size: 0.875em; }
+  #about_us .row .foto_specialista {
+    text-align: center;
+    margin: 10px 0 10px 0; }
+    #about_us .row .foto_specialista img {
+      width: 100%; }
+  #the_questions .container .block_question h1 {
+    font-size: 1.25em;
+    margin: 0;
+    padding: 10px; }
+  #contacts_adress .row .contacts h2 {
+    line-height: 30px; } }

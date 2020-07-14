@@ -1,4 +1,4 @@
-# lending-page - http://hidjama.site/
+landing page - http://hidjama.site/
 
 Stack:
 - HTML5
